@@ -3,7 +3,4 @@ first repository of sushangh10
 
 myFirst repository
 
-i can add something after i created it...
-
-
-add second thing by clone into my pc and edit something
+2020年6月2日23:05:50  Django框架基本项目结构
